@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Q3 Budget Forecast.xlsx",
+    "tags": "finance, budget, quarterly",
+    "links": {
+      "View": "https://company.sharepoint.com/sites/finance/Q3-Budget-Forecast.xlsx",
+      "Edit": "https://company.sharepoint.com/sites/finance/Q3-Budget-Forecast.xlsx?web=1"
+    },
+    "copyCount": 24,
+    "typeCounts": { "View": 18, "Edit": 6 },
+    "formatCounts": { "linked": 20, "raw": 4 }
+  },
+  {
+    "name": "Project Roadmap.pptx",
+    "tags": "roadmap, planning, presentation",
+    "links": {
+      "View": "https://company.sharepoint.com/sites/pm/Project-Roadmap.pptx",
+      "Edit": "https://company.sharepoint.com/sites/pm/Project-Roadmap.pptx?web=1"
+    },
+    "copyCount": 17,
+    "typeCounts": { "View": 12, "Edit": 5 },
+    "formatCounts": { "linked": 15, "raw": 2 }
+  },
+  {
+    "name": "Engineering Requirements.docx",
+    "tags": "requirements, engineering, specs",
+    "links": {
+      "View": "https://company.sharepoint.com/sites/eng/Engineering-Requirements.docx",
+      "Edit": "https://company.sharepoint.com/sites/eng/Engineering-Requirements.docx?web=1"
+    },
+    "copyCount": 13,
+    "typeCounts": { "View": 9, "Edit": 4 },
+    "formatCounts": { "linked": 11, "raw": 2 }
+  },
+  {
+    "name": "Sprint Board",
+    "tags": "jira, sprint, tasks, backlog",
+    "links": {
+      "Board": "https://company.atlassian.net/jira/software/projects/PROJ/boards/1",
+      "Backlog": "https://company.atlassian.net/jira/software/projects/PROJ/backlog"
+    },
+    "copyCount": 11,
+    "typeCounts": { "Board": 8, "Backlog": 3 },
+    "formatCounts": { "linked": 9, "raw": 2 }
+  },
+  {
+    "name": "Team Wiki",
+    "tags": "confluence, wiki, docs, onboarding",
+    "links": {
+      "Home": "https://company.atlassian.net/wiki/spaces/TEAM/overview"
+    },
+    "copyCount": 8,
+    "typeCounts": { "Home": 8 },
+    "formatCounts": { "linked": 7, "raw": 1 }
+  },
+  {
+    "name": "Design System",
+    "tags": "figma, design, components, ui",
+    "links": {
+      "View": "https://www.figma.com/file/abc123/Design-System"
+    },
+    "copyCount": 6,
+    "typeCounts": { "View": 6 },
+    "formatCounts": { "linked": 5, "raw": 1 }
+  },
+  {
+    "name": "Monthly KPIs Dashboard",
+    "tags": "metrics, dashboard, reporting",
+    "links": {
+      "View": "https://docs.google.com/spreadsheets/d/abc123/edit"
+    },
+    "copyCount": 5,
+    "typeCounts": { "View": 5 },
+    "formatCounts": { "linked": 4, "raw": 1 }
+  },
+  {
+    "name": "API Documentation",
+    "tags": "api, docs, reference, github",
+    "links": {
+      "Repo": "https://github.com/company/api-docs",
+      "Live": "https://docs.company.com/api"
+    },
+    "copyCount": 3,
+    "typeCounts": { "Repo": 1, "Live": 2 },
+    "formatCounts": { "linked": 2, "raw": 1 }
+  }
+]
